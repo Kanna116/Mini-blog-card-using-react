@@ -8,7 +8,10 @@ export default function BlogCard() {
       </div>
       <button className="design-btn">Design</button>
       <h1 className="blog-title">Embracing Minimalism</h1>
-      <p className="blog-desc">From minimalist sculptures to minimalist paintings, this blog will inspire you to appreciate the beauty that lies in simplicity.</p>
+      <p className="blog-desc">
+        From minimalist sculptures to minimalist paintings, this blog will
+        inspire you to appreciate the beauty that lies in simplicity.
+      </p>
       <hr />
       <h3 className="author">Klax</h3>
     </div>
